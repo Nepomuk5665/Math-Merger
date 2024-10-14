@@ -22,8 +22,6 @@ Customize: Save your preferences and progress using the app's built-in shared pr
 Contributing
 If you'd like to contribute, please fork the repository and create a pull request, or open an issue to discuss what you would like to change.
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 Acknowledgments
 Flutter
